@@ -277,6 +277,8 @@ nav{
     }
     .experience_content img{
         opacity:1;
+        height: 90vh;
+        width: 100%;
     }
     .experience_card:nth-child(1){
         margin-left: 5rem;
@@ -446,7 +448,7 @@ text-align: center;
     isolation: isolate;
 }
 .experience_content img{
-    max-width: 300px;
+    max-width: 400px;
     margin-inline: auto;
 }
 .experience_card{
